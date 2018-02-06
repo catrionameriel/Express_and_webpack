@@ -1,0 +1,10 @@
+li {
+  display: inline-block;
+  margin: 3em;
+  font-family: "century gothic";
+  font-size: 1em;
+  border: 0.02em solid black;
+  padding: 0.8em;
+  max-width: 30%;
+  min-width: 10%;
+}
